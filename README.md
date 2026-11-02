@@ -4,7 +4,7 @@
 **Area:** IT General Controls (Logical Access) | **Type:** Control testing walkthrough
 
 > **Disclaimer:** This is a portfolio exercise. Brightwave Microfinance Ltd is a fictional company and all data, names, and results are simulated to demonstrate testing methodology.
-
+![Testing approach](testing-flow.png)
 ---
 
 ## 1. Overview
