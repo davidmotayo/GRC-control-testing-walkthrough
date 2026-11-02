@@ -4,9 +4,8 @@
 **Area:** IT General Controls (Logical Access) | **Type:** Control testing walkthrough
 
 > **Disclaimer:** This is a portfolio exercise. Brightwave Microfinance Ltd is a fictional company and all data, names, and results are simulated to demonstrate testing methodology.
-![Testing approach](testing-flow.png)
 ---
-
+![Testing approach](testing-flow.png)
 ## 1. Overview
 
 This project walks through how I would test a **periodic user access review** control from design evaluation through operating effectiveness testing, evidence evaluation, and a final conclusion with findings.
